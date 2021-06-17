@@ -1,36 +1,36 @@
 #EXTM3U
- 
-#EXTINF:-1,*Mejor proveedor de IPTV premium | Más de 3000 canales Full HD
-
-#EXTINF:-1,LOCOMOTION
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-
-#EXTINF:-1,GARAGE TV AUTOS PLANETFOOLS
-http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
-
-#EXTINF:-1,NATGEO WILD
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(02)/index.m3u8
-
-#EXTINF:-1,Travel HD
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-
-#EXTINF:-1,NEOX HD ESP
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?www.tecnotv.info?sd=10&
-
-#EXTINF:-1,ESPN HD
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
-
-#EXTINF:-1,CDF DEPORTES EN VIVO
-http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
-
-#EXTINF:-1,DXTV DEPORTES
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
-
-#EXTINF:-1,DXTV DEPORTES
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-
-#EXTINF:-1,CDO HD
-http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
-
-#EXTINF:-1,CDO DEPORTES
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="http://l3d.us:8080/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-id="animalplanet.mx" ,C | Animal Planet
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/10408
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="http://l3d.us:8080/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-id="animalplanet.mx" ,C | Animal Planet FHD
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/147960
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="http://l3d.us:8080/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-id="animalplanet.mx" ,C | Animal Planet HD
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/10407
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="http://l3d.us:8080/images/2bffe8e99bded440c9a326cd6751a23d.png" tvg-id="discoverychannel.mx" ,C | Discovery Channel
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/10409
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="https://i.ibb.co/3rbyLT6/discoverychannel.png" ,C | Discovery Channel CL HD
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/183445
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="http://l3d.us:8080/images/2bffe8e99bded440c9a326cd6751a23d.png" tvg-id="discoverychannel.co" ,C | Discovery Channel CO
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/183442
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="https://i.ibb.co/3rbyLT6/discoverychannel.png" tvg-id="disneychannel.co" ,C | Discovery Channel CO FHD
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/183443
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="https://i.ibb.co/3rbyLT6/discoverychannel.png" tvg-id="discoverychannel.mx" ,C | Discovery Channel FHD
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/148703
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="http://l3d.us:8080/images/2bffe8e99bded440c9a326cd6751a23d.png" tvg-id="discoverychannel.mx" ,C | Discovery Channel HD
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/10410
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="http://l3d.us:8080/images/aeeb39806ae37e7121a050ffcf09a23f.png" ,C | Discovery Civilization
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/10411
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="https://image.ibb.co/cqsgwp/discoveryciv.png" tvg-id="discoverycivilization.mx" ,C | Discovery Civilization FHD
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/153884
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="https://image.ibb.co/cqsgwp/discoveryciv.png" tvg-id="discoverycivilization.mx" ,C | Discovery Civilization HD
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/154073
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="https://i.ibb.co/wNzG51M/discesp.png" tvg-id="discoveryespanol.us" ,C | Discovery en Español
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/26760
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="http://l3d.us:8080/images/7687055d0135e5e50cf3c39cccaf6d96.png" tvg-id="discoveryespanol.us" ,C | Discovery en Español HD
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/197236
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="http://l3d.us:8080/images/62b7fa0df669f5fd039ba4ad00d1952c.png" tvg-id="discoveryfamilia.us" ,C | Discovery Familia
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/183441
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="http://l3d.us:8080/images/62b7fa0df669f5fd039ba4ad00d1952c.png" tvg-id="discoveryfamilia.us" ,C | Discovery Familia HD
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/183440
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="http://l3d.us:8080/images/5365356a42d407362dc077d92602620e.png" tvg-id="discoveryhomeandhealth.mx" ,C | Discovery H&H
+http://l3dtv.ga:8080//CntChupapija/bGWkWP4X3z/10419
+#EXTINF:-1 group-title="TV | Cultura" tvg-logo="http://l3d.us:8080/images/5365356a42d407362dc077d92602620e.png" tvg-id="discoveryhomeandhealth.mx" ,C | Discovery H&H FHD
